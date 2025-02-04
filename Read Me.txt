@@ -1,0 +1,10 @@
+1.Website Name -      The Bookshelf
+2.Prepared by  -      Radhika
+3.University Roll No- 2230080
+4.Technologies Used - (1)Frontend- HTML, CSS
+                      (2)Backend-  PHP, MySQL
+5.Database name - shp
+  Tables name   -  (1)users
+                   (2)products
+6.Images used for the book front pages are linked through internet .Please Connect to the Internet before Processing this Online book Shopping Website.
+
